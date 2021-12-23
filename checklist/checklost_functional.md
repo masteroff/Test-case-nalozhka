@@ -5,8 +5,8 @@
 Браузер | Google chrome | Opera | Mozila Firefox | Samsung Internet Browser | |
 Проверка возможности заполнения всех полей | OK |OK | OK | OK | |
 Проверка выполнения функций при нажатии кнопок | OK |OK | OK | OK | [Тест 1-1](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-1.md), [Тест 1-2](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-2.md), [Тест 2-3](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%202-3.md) |
-Отображение подсказок | OK |OK | OK | OK | Тест 1-3, Тест 1-4 |
-Корректный числовой расчет | Failed |Failed | Failed | Failed | Тест 2-2 | Тест 1-6 провалился
+Отображение подсказок | OK |OK | OK | OK | [Тест 1-3](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-3.md), [Тест 1-4](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-4.md) |
+Корректный числовой расчет | Failed |Failed | Failed | Failed | [Тест 2-2](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%202-2.md) | [Тест 1-6](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-6.md) провалился
 Проверка ограничений по вводимой информации | Failed |Failed | Failed | Failed | Тест 1-5, Тест 1-7, Тест 1-8, Тест 2-2 |  Тест 3-1 провалился
 Проверка функции загрузки файлов | OK |OK | OK | OK | Тест 3-2 | 
 Проверка корректности перехода ссылок | OK |OK | OK | OK | | 
