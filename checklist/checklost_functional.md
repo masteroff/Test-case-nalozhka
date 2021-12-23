@@ -1,8 +1,8 @@
 **Название: Функционал**
 
-**Операционная система** | **Windows 10 x64** | | | Android | Google chrome | Связанные тесты | Комментарии 
+**Операционная система** | **Windows 10 x64** | | | Android |  | Связанные тесты | Комментарии 
 --- | --- | --- | --- | --- | --- | --- | ---
-Браузер | Google chrome | Opera | Mozila Firefox | Samsung Internet Browser | | |
+Браузер | Google chrome | Opera | Mozila Firefox | Samsung Internet Browser | Google chrome | |
 Проверка возможности заполнения всех полей | OK |OK | OK | OK | OK | |
 Проверка выполнения функций при нажатии кнопок | OK |OK | OK | OK | OK | [Тест 1-1](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-1.md), [Тест 1-2](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-2.md), [Тест 2-3](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%202-3.md) |
 Отображение подсказок | OK |OK | OK | OK | OK | [Тест 1-3](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-3.md), [Тест 1-4](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-4.md), [Тест 1-9](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-9.md) |
