@@ -4,7 +4,7 @@
 --- | --- | --- | --- | --- | --- | ---
 Браузер | Google chrome | Opera | Mozila Firefox | Samsung Internet Browser | |
 Проверка возможности заполнения всех полей | OK |OK | OK | OK | |
-Проверка выполнения функций при нажатии кнопок | OK |OK | OK | OK | Тест 1-1, Тест 1-2, Тест 2-3 |
+Проверка выполнения функций при нажатии кнопок | OK |OK | OK | OK | [Тест 1-1](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-1.md), [Тест 1-2](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-2.md), [Тест 2-3](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%202-3.md) |
 Отображение подсказок | OK |OK | OK | OK | Тест 1-3, Тест 1-4 |
 Корректный числовой расчет | Failed |Failed | Failed | Failed | Тест 2-2 | Тест 1-6 провалился
 Проверка ограничений по вводимой информации | Failed |Failed | Failed | Failed | Тест 1-5, Тест 1-7, Тест 1-8, Тест 2-2 |  Тест 3-1 провалился
