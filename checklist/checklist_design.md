@@ -1,4 +1,5 @@
 **Название: Верстка**
+
 **Операционная система** | **Windows 10 x64** | | | Android
 --- | ---
 Браузер | Google chrome | Opera | Mozila Firefox | Samsung Internet Browser
