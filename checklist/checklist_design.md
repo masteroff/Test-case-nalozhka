@@ -4,7 +4,7 @@
 --- | --- | --- | --- | --- | --- | ---
 Браузер | Google chrome | Opera | Mozila Firefox | Samsung Internet Browser | Google chrome
 **Проверить наличие элементов интерфейса** | | | | | |
-Корректное отображение страниц | OK |OK | OK | Failed | Failed | В браузере Samsung Internet Browser некорректно отображается вторая страница "Стоимость"
+Корректное отображение страниц | OK |OK | OK | Failed | Failed | В мобильном браузере Samsung Internet Browser и Google chrome некорректно отображается вторая страница "Стоимость"
 Наличие логотипа | OK |OK | OK | OK | OK |
 **Проверить отображение элементов** | | | | | |
 Корректное отображение шрифтов | OK |OK | OK | OK | OK |
