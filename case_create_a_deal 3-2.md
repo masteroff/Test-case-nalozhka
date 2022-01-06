@@ -8,3 +8,5 @@
 Нажимаем снизу кнопку "Описание" | Открылся раздел "О сделке"
 **Шаги теста** | 
 В Фотографии нажмите "Выберите файл" и откройте файл любого формата кроме jpg, jpeg, png, gif. | Вышло красное сообщение "Выберите файлы jpg, jpeg, png, gif."
+
+[<Тест кейс 3-1](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%203-1.md)  =============  [Тест кейс 4-1>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%204-1.md)

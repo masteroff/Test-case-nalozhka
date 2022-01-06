@@ -12,3 +12,5 @@
 **Шаги теста** |  | 
 В верхнем меню выбрать раздел "Сделки" | Открылась страница текущих сделок |
 В черновике созданной сделки нажать три точки и Дублировать | Появилась копия черновика сделки и сообщением "Создана сделка #xxxxxxxxxx на основе #xxxxxxxxxx" | Копия сделки не появилась
+
+[<Тест кейс 3-2](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%203-2.md)  =============  [Тест кейс 4-1>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%204-1.md)

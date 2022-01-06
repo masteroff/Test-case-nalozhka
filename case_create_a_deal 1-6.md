@@ -22,3 +22,5 @@ _ | В фиксированном окошке справа и желтом бл
 Дата | Фактический результат
 05.01.2022 шаг 7 |  В блоке цена посылки осталась прежней 578,75 ₽
 05.01.2022 шаг 12 | В блоке тарифа цена посылки 828,75 ₽ осталась прежней 
+
+[<Тест кейс 1-5](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-5.md)  =============  [Тест кейс 1-7>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-7.md)

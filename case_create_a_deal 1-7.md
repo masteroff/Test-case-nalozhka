@@ -8,3 +8,5 @@
 В названии товара "Ваза" заменить на текст с не менее 1000 символов | 
 Нажать кнопку "Стоимость" | Отобразилась страница стоимости с ошибкой "Что-то пошло не так"
 Нажать кнопку "Описание" | Кнопка не реагирует на нажатие
+
+[<Тест кейс 1-6](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-6.md)  =============  [Тест кейс 1-8>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-8.md)
