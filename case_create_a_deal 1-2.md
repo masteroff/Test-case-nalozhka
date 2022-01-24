@@ -9,3 +9,5 @@
 В правом верхнем углу формы раздела "Товары" нажать три точки. В выпадающем меню нажать "Дублировать" | Появилась новая графа в разделе "Товары" с идентичными характеристиками из предыдущего товара
 
 [<Тест кейс 1-1](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-1.md)  =============  [Тест кейс 1-3>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-3.md)
+ 
+[Вернуться на главную страницу](https://github.com/masteroff/Test-case-nalozhka/blob/main/list_of_test_cases.md)

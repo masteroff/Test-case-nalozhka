@@ -10,3 +10,5 @@
 Нажать на синий текст с ссылкой "Список пунктов доставки" | В новом окне открылся сайт cdek.ru с картой пунктов выдачи
 
 [<Тест кейс 1-9](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-9.md)  =============  [Тест кейс 2-1>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%202-1.md)
+ 
+[Вернуться на главную страницу](https://github.com/masteroff/Test-case-nalozhka/blob/main/list_of_test_cases.md)

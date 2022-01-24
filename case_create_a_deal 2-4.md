@@ -8,3 +8,5 @@
 **Шаги теста** | 
 В расчете стоимости покупателя навести курсор на желтый знак вопроса | Появится желтое окошко с подсказкой
 [<Тест кейс 2-3](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%202-3.md)  =============  [Тест кейс 3-1>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%203-1.md)
+ 
+[Вернуться на главную страницу](https://github.com/masteroff/Test-case-nalozhka/blob/main/list_of_test_cases.md)

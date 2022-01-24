@@ -14,3 +14,5 @@
 Повторно начать писать цифру "500" в полях ввода характеристик | Отобразится окно с подсказкой об ограничении габаритов груза
 
 [<Тест кейс 1-3](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-3.md)  =============  [Тест кейс 1-5>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-5.md)
+ 
+[Вернуться на главную страницу](https://github.com/masteroff/Test-case-nalozhka/blob/main/list_of_test_cases.md)

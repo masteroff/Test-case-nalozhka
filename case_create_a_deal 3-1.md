@@ -10,3 +10,5 @@
 В поле ввод комментарии пишем/вставляем любые 225 000 символов | Отображается ограничение по вводимым символам | Ограничений по количеству символов нет. Сайт зависает. Все кнопки становятся не активны.
 
 [<Тест кейс 2-4](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%202-4.md)  =============  [Тест кейс 3-2>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%203-2.md)
+ 
+[Вернуться на главную страницу](https://github.com/masteroff/Test-case-nalozhka/blob/main/list_of_test_cases.md)

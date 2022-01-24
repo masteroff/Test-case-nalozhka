@@ -10,3 +10,5 @@
 Нажать кнопку "Описание" | Кнопка не реагирует на нажатие
 
 [<Тест кейс 1-6](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-6.md)  =============  [Тест кейс 1-8>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-8.md)
+ 
+[Вернуться на главную страницу](https://github.com/masteroff/Test-case-nalozhka/blob/main/list_of_test_cases.md)

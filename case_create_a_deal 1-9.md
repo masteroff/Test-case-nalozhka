@@ -8,3 +8,5 @@
 В доставке  написать название города переключив раскладку клавиатуры на английский. Например вместо: "Астрахань" написать "Fcnhf[fym" | Отобразится подсказка с названием нужного города на русском
 
 [<Тест кейс 1-8](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-8.md)  =============  [Тест кейс 1-10>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-10.md)
+ 
+[Вернуться на главную страницу](https://github.com/masteroff/Test-case-nalozhka/blob/main/list_of_test_cases.md)

@@ -28,3 +28,5 @@ _ | Покупатель заплатит "1 636,87 ₽"
 Шаг 14. Повторно провести шаги теста №7,8,9 | Блок предупреждения "Выплата продавцу не должна быть меньше 10 ₽" больше не отображается
 
 [<Тест кейс 2-1](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%202-1.md)  =============  [Тест кейс 2-3>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%202-3.md)
+ 
+[Вернуться на главную страницу](https://github.com/masteroff/Test-case-nalozhka/blob/main/list_of_test_cases.md)

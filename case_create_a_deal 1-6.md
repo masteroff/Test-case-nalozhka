@@ -24,3 +24,5 @@ _ | В фиксированном окошке справа и желтом бл
 05.01.2022 шаг 12 | В блоке тарифа цена посылки 828,75 ₽ осталась прежней 
 
 [<Тест кейс 1-5](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-5.md)  =============  [Тест кейс 1-7>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-7.md)
+ 
+[Вернуться на главную страницу](https://github.com/masteroff/Test-case-nalozhka/blob/main/list_of_test_cases.md)

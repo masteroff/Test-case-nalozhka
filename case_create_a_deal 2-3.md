@@ -10,3 +10,5 @@
 В разделе "Тарифы" нажать синюю надпись "Изменить тариф" | Отобразится выбор тарифов
 
 [<Тест кейс 2-2](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%202-2.md)  =============  [Тест кейс 2-4>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%202-4.md)
+ 
+[Вернуться на главную страницу](https://github.com/masteroff/Test-case-nalozhka/blob/main/list_of_test_cases.md)

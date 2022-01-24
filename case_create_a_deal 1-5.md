@@ -12,3 +12,5 @@
 Установить галочку "Обрешетка" | Подсказка об увеличении габаритов не отобразилась
 
 [<Тест кейс 1-4](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-4.md)  =============  [Тест кейс 1-6>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-6.md)
+ 
+[Вернуться на главную страницу](https://github.com/masteroff/Test-case-nalozhka/blob/main/list_of_test_cases.md)
