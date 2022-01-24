@@ -9,4 +9,5 @@
  В правом верхнем углу формы "Посылка # 1" нажать три точки. В выпадающем меню нажать "Дублировать" | Создалась новая форма "Посылка # 2" с идентичными характеристиками из формы "Посылка # 1" 
 
  [<Тест кейс 1-1](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-1.md)  =============  [Тест кейс 1-2>](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-2.md)
+ 
 [Вернуться на главную страницу](https://github.com/masteroff/Test-case-nalozhka/blob/main/list_of_test_cases.md)
