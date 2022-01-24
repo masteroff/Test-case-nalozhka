@@ -10,3 +10,5 @@
 Проверка ограничений по вводимой информации | Failed |Failed | Failed | Failed | Failed | [Тест 1-5](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-5.md), [Тест 1-7](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-7.md), [Тест 1-8](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%201-8.md), [Тест 2-2](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%202-2.md) |  [Тест 3-1](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%203-1.md) провалился
 Проверка функции загрузки файлов | OK |OK | OK | OK | OK | [Тест 3-2](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%203-2.md) | 
 Проверка корректности перехода ссылок | OK |OK | OK | OK | OK | | 
+
+[Вернуться на главную страницу](https://github.com/masteroff/Test-case-nalozhka/blob/main/list_of_test_cases.md)
