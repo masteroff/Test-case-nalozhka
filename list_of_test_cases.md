@@ -30,3 +30,7 @@ deals-2.4 | [Подсказки при наведении курсора на з
 deals-3.1 | [Ограничение по количеству символов в комментарии к сделки](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%203-1.md) | 22.12.2021 | Ошибка | низкая
 deals-3.2 | [Загрузка в раздел Фотографии файл другого формата](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%203-2.md) | 23.12.2021 | Успешно | средняя
 deals-4.1 | [Дублирование сделки](https://github.com/masteroff/Test-case-nalozhka/blob/main/case_create_a_deal%204-1.md) | 28.12.2021 | Ошибка | средняя
+
+[Ссылка на Чек-лист дизайн](https://github.com/masteroff/Test-case-nalozhka/blob/main/checklist/checklist_design.md)
+
+[Ссылка на Чек-лист функционал](https://github.com/masteroff/Test-case-nalozhka/blob/main/checklist/checklost_functional.md)
